@@ -5,10 +5,10 @@ menu:
     google: //www.google.com/
 
 extmenu:
-  github: //github.com/wzktravel/
+  github: //github.com/sogouwebfront/
   hexo: //zespia.tw/hexo/
   theme:
-    biture: //github.com/wzktravel/hexo-theme-biture
+    biture: //github.com/sogouwebfront/hexo-theme-biture
     landscape: //github.com/tommy351/hexo-theme-landscape
     light: //github.com/tommy351/hexo-theme-light
 
@@ -23,7 +23,7 @@ fancybox: true
 # rss:
 
 # duoshuo
-duoshuo_shortname: wzktravel
+duoshuo_shortname: sogouwebfront
 
 # favicon
 favicon: https://avatars2.githubusercontent.com/u/3304943?v=3&s=460
