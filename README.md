@@ -2,7 +2,7 @@
 
 A single column, widget-less minimalist theme for [Hexo], based on [Pure] css framework, forked from https://github.com/kywk/hexo-theme-biture
 
-Preview: http://wzktravel.github.io/
+Preview: http://sogouwebfront.github.io/
 
 
 ## Installation
@@ -10,7 +10,7 @@ Preview: http://wzktravel.github.io/
 ### Install
 
 ``` bash
-$ git clone https://github.com/wzktravel/hexo-theme-biture.git themes/biture
+$ git clone https://github.com/sogouwebfront/hexo-theme-biture.git themes/biture
 ```
 
 ### Enable
